@@ -21,3 +21,17 @@ Réalisé en collaboration par une équipe de cinq membres, utilisant nos compé
 
     Clonez le dépôt: git clone https://github.com/sarusman/data-visualisation.git
     Exécutez les notebooks Jupyter pour voir les analyses et visualisations
+
+
+
+# Résultats:
+
+## Analyse des données méteo :
+    Source : 
+    Résulat:
+    ![WhatsApp Image 2024-03-28 at 20 32 26](https://github.com/sarusman/data-visualisation/assets/60844500/522029c6-4525-4f51-a467-9ea0c05c082c)
+
+## Analyse des données touristique dans les aéroports de France:
+    Source : https://www.parisaeroport.fr/groupe/finances/relations-investisseurs/trafic
+    Résultat:
+    <img width="1331" alt="lol" src="https://github.com/sarusman/data-visualisation/assets/60844500/7d6228f1-c9f2-40f9-aaa1-319f4ee618e0">
